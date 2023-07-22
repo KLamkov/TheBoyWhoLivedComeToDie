@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheBoyWhoLivedComeToDie/static/css/main.ea7ba125.css",
+    "main.js": "/TheBoyWhoLivedComeToDie/static/js/main.d3dafe24.js",
+    "index.html": "/TheBoyWhoLivedComeToDie/index.html",
+    "main.ea7ba125.css.map": "/TheBoyWhoLivedComeToDie/static/css/main.ea7ba125.css.map",
+    "main.d3dafe24.js.map": "/TheBoyWhoLivedComeToDie/static/js/main.d3dafe24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea7ba125.css",
+    "static/js/main.d3dafe24.js"
+  ]
+}
